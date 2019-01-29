@@ -2,6 +2,15 @@
 
 A Swift Vapor web app demo that receives phone calls and speaks a message back.
 
+
+## Prerequisites
+
+* a [Nexmo](https://dashboard.nexmo.com) account - if you don't have one please [sign up here](https://dashboard.nexmo.com/sign-up)
+* the [Nexmo CLI](https://github.com/Nexmo/nexmo-cli) - you'll use this to create an application, purchase a number and link the two together
+* Swift 4.1 or greater - on MacOS, Xcode 9.3 or greater will do the trick 
+* the [Vapor](https://vapor.codes/) web framework
+
+
 ### Usage
 
 * Clone this repository
